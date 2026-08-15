@@ -37,6 +37,7 @@ android {
   }
   kotlinOptions {
     jvmTarget = "17"
+    languageVersion = "2.0"
   }
   buildFeatures {
     compose = true
