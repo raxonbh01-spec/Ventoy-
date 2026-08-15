@@ -6,6 +6,9 @@ plugins {
   alias(libs.plugins.google.devtools.ksp)
   alias(libs.plugins.roborazzi)
   alias(libs.plugins.secrets)
+  id("com.android.application")
+  id("org.jetbrains.kotlin.android")
+  id("org.jetbrains.kotlin.plugin.compose")
   // alias(libs.plugins.google.services)
 }
 
