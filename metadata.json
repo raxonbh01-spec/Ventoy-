@@ -1,6 +1,6 @@
 {
   "name": "Ventoy Boot",
-  "description": "Multi-Boot USB manager for Android with OTG USB drive detection, ISO payload manager, Ventoy config generator, and boot menu simulator on non-root devices.",
+  "description": "Multi-Boot USB manager for Android with OTG USB drive detection, ISO payload manager, Ventoy config generator, and one-tap updates on non-root devices.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
